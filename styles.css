@@ -1,0 +1,49 @@
+body {
+    background-color:cornflowerblue;
+}
+img {
+    border: radius 10px;
+    border-style:solid;
+
+}
+.Gayane-Papikyan {
+    background-color: rgb(210, 214, 229);
+    border: radius 10px;;
+    border-style: solid;
+    border-color: ivory;
+    text-align: center;
+    text-shadow: lavenderblush;
+    color: lavenderblush;
+}
+h1 {
+    color:rgb(211, 214, 219);
+    text-align: center;
+}
+div {
+    border-image: 10px;
+    border-color: lavenderblush;
+    background-image: url("https://static01.nyt.com/images/2020/10/16/multimedia/16athome-cosmos2-nl/merlin_171806022_712c625e-2fc5-4973-8009-1af5d7707364-articleLarge.jpg?quality=75&auto=webp&disable=upscale") 
+}
+h2 {
+    color: lavenderblush;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left:middle;
+    margin-right: middle;
+    width: 25%;
+    align-content: center;
+
+}
+
+
+
+
+
